@@ -1,12 +1,12 @@
 # ¡Hola, soy malubviascat-sys! 👋
 
-Desarrollador de software apasionado por la automatización y la optimización de código.
+Técnica en formación especializada en **Ciberseguridad y Redes**. Certificada en **CCST Cybersecurity** (Cisco Networking Academy / Mujer Digital). 
 
-- 💻 **Lenguajes principales:** 
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-- 🛠️ **Herramientas:** Git, GitHub, Docker
-- 🎯 **Objetivo actual:** Mejorar mis habilidades en desarrollo backend y open source.
+Actualmente estoy construyendo mi camino hacia el mercado laboral como **Técnica Remota**, documentando mis prácticas de laboratorio y proyectos de infraestructura y seguridad.
+
+- 🛡️ **Certificaciones:** CCST Cybersecurity (Cisco NetAcad)
+- 🧪 **Áreas de práctica:** Laboratorios de redes, seguridad defensiva, soporte técnico y resolución de problemas.
+- 🎯 **Objetivo actual:** Demostrar mis habilidades prácticas y conectar con oportunidades en soporte técnico remoto y ciberseguridad.
 ---
 ### 🌐 Contacto y Redes
 - 💼 **LinkedIn:** Monserrat Casarrubias (https://www.linkedin.com/in/abril-crscst/)
